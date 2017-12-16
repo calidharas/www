@@ -9,7 +9,7 @@
       padding-bottom: 0;
 
       @mixin atMedium {
-        padding-bottom: 4.5rem;
+        padding-bottom: 4.5rem; 
       }
     }
 

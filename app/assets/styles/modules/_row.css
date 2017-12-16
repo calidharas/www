@@ -2,14 +2,14 @@
 
   @mixin clearfix;
 
-  &__t-padding{
-    padding-top: 80px;
+  &__t-padding{ 
+    padding-top: 80px;  
   }
 
 
-  &__gutters {
+  &__gutters {  
     margin-right: -65px;
-  }
+  }  
 
   &--gutters-large {
     margin-right: -100px;
